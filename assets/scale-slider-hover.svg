@@ -23,11 +23,11 @@
        inkscape:collect="always"
        id="linearGradient4721">
       <stop
-         style="stop-color:#ff5d73;stop-opacity:1;"
+         style="stop-color:#00b0ff;stop-opacity:1;"
          offset="0"
          id="stop4723" />
       <stop
-         style="stop-color:#ff5d73;stop-opacity:0;"
+         style="stop-color:#00b0ff;stop-opacity:0;"
          offset="1"
          id="stop4725" />
     </linearGradient>
@@ -80,7 +80,7 @@
      id="layer1"
      transform="translate(0,-1038.3622)">
     <ellipse
-       style="opacity:1;fill:#ff5d73;fill-opacity:1;stroke:url(#radialGradient4727);stroke-width:3.10000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#00b0ff;fill-opacity:1;stroke:url(#radialGradient4727);stroke-width:3.10000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4719"
        cx="7.1973367"
        cy="1045.5753"

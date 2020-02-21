@@ -153,13 +153,13 @@
      id="layer1"
      transform="translate(-444.64286,-782.36218)">
     <path
-       style="fill:#ff5d73;fill-opacity:1"
+       style="fill:#00b0ff;fill-opacity:1"
        d="M 18.019531,10.914062 A 9.5,9.5 0 0 0 18,11.5 9.5,9.5 0 0 0 27.5,21 h 7.5 2 7.5 A 9.5,9.5 0 0 0 54,11.5 9.5,9.5 0 0 0 53.980469,11.085938 9.5,9.5 0 0 1 44.5,20 H 37 35 27.5 a 9.5,9.5 0 0 1 -9.480469,-9.085938 z"
        transform="translate(444.64286,782.36218)"
        id="path900"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#ff5d73;fill-opacity:1"
+       style="fill:#00b0ff;fill-opacity:1"
        d="m 472.14286,783.36218 a 9.5,9.5 0 0 0 -9.5,9.5 9.5,9.5 0 0 0 9.5,9.5 h 7.5 2 7.5 a 9.5,9.5 0 0 0 9.5,-9.5 9.5,9.5 0 0 0 -9.5,-9.5 h -7.5 -2 z"
        id="path872"
        inkscape:connector-curvature="0" />
@@ -188,7 +188,7 @@
        y="785.36218"
        ry="7.392344" />
     <path
-       style="fill:#ff5d73;fill-opacity:1"
+       style="fill:#00b0ff;fill-opacity:1"
        d="M 27.5,1 A 9.5,9.5 0 0 0 18,10.5 9.5,9.5 0 0 0 18.019531,10.914062 9.5,9.5 0 0 1 27.5,2 h 7.5 2 7.5 A 9.5,9.5 0 0 1 53.980469,11.085938 9.5,9.5 0 0 0 54,10.5 9.5,9.5 0 0 0 44.5,1 H 37 35 Z"
        transform="translate(444.64286,782.36218)"
        id="path902"
